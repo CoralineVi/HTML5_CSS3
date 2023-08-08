@@ -1,6 +1,6 @@
 # HTML5 e CSS3 - Módulo 1
 
-Esse é o módulo 1/5 do curso de HTML5 e CSS3, o curso é em pt-br, online e gratuito, oferecido por pelo "Curso em Vídeo". Abaixo estão informações úteis sobre o curso, bem como links para recursos adicionais.
+Esse é um curso de HTML5 e CSS3 em pt-br, o curso é online e gratuito, possui 5 módulos e é oferecido por pelo "Curso em Vídeo". 
 
 ## Link do Curso
 
