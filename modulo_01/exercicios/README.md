@@ -1,3 +1,3 @@
 # Exercícios do Módulo
 
-1. 
+1. Explicando corpo do HTML
